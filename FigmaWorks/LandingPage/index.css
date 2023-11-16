@@ -1,0 +1,59 @@
+body {
+    background-color: #fff; 
+}
+
+header {
+    background-color: #fff;
+    color: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.Sign-Up{
+    background-color: rgb(43, 170, 43);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-size: x-small;
+}
+
+.Login{
+    background-color:white;
+    color:  rgb(43, 170, 43);
+    padding: 10px;
+    cursor: pointer;
+    font-size: x-small;
+}
+
+.Register{
+    background-color: rgb(43, 170, 43);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-size: x-small;
+}
+
+
+div a {
+    color: black
+}
+
+section {
+    font-size: medium;
+    background-color: whitesmoke;
+    color: #000;
+    display: flex;
+    /* justify-content: space-between;  */
+    align-items: center;
+    size-adjust: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
